@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a Computer Science Student loves to do Vibe Coding.<br>Also passionate about breaking things and fixing them in order to learn.<br>My domain of interests are AI, Machine Learning, Devops, DSA, Frontend Development <br>and Cyber Security.
 
 
