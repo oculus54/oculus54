@@ -24,6 +24,7 @@ I'm a Computer Science Student loves to do Vibe Coding.<br>Also passionate about
 
 ## Generative AI
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23000000.svg?style=for-the-badge&logo=huggingface&logoColor=white)![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-%23000000.svg?style=for-the-badge&logo=faiss&logoColor=white)
 
 
 
