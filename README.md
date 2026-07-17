@@ -1,6 +1,7 @@
 # About Me:
-I'm a Computer Science Student loves to do Vibe Coding.<br>Also passionate about breaking things and fixing them in order to learn.<br>My domain of interests are AI, Machine Learning, Devops, DSA, Frontend Development <br>and Cyber Security.
-
+I'm a B.Tech student at University of Engineering and Management, Kolkata.
+Currently I'm exploring the trends of Next Gen Tech like using Ai agents, LLMs, building with AI and also on Deep Learning, Transformer Architecture.
+I have a strong knowledge in fundamental subjects like C Programming, Object Oriented Programming, Data Structure and Algorithms and also i have strong foundation of Linux, Docker, APIs.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/54.immortals_) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@debanganm23s) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:debanganm23s@gmail.com) 
