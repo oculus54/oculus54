@@ -23,7 +23,7 @@ I have a strong knowledge in fundamental subjects like C Programming, Object Ori
 
 
 ## Iot:
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)![ESP32](https://img.shields.io/badge/ESP32-4CA300?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-4CA300?style=for-the-badge&logo=espressif&logoColor=white)
 
 
 # 📊 GitHub Stats:
