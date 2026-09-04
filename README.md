@@ -5,9 +5,11 @@
 </a>
 
 </div>
+<div align="center">
 
 ### 🤖 About Me
 
+</div>
 ```yaml
 whoami: Debangan (oculus54)
 role: B.Tech Student — CSIT, University of Engineering & Management, Kolkata
