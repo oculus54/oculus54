@@ -88,7 +88,7 @@ status: 🟢 Currently training models & breaking Docker containers
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/oculus54/oculus54/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/oculus54/oculus54/output/github-contribution-grid-snake-forgejo-dark.svg" width="100%"/>
 </div>
 
 > ℹ️ The snake animation needs a one-time GitHub Action in this repo to generate the SVG above — see setup note at the bottom.
