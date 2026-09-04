@@ -46,10 +46,7 @@ status: 🟢 Currently training models & breaking Docker containers
 
 **AI / ML / Data Science**
 
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,huggingface" /> 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LlamaIndex-6E57E0?style=for-the-badge&logo=llamaindex&logoColor=white"/>
-<img src="https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=green"/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,huggingface,TensorFlow" /> 
 
 **Frameworks & Tools**
 
@@ -62,7 +59,7 @@ status: 🟢 Currently training models & breaking Docker containers
 **IoT**
 
 <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
-<img src="https://img.shields.io/badge/ESP32-4CA300?style=for-the-badge&logo=espressif&logoColor=white"/>
+
 
 </div>
 
@@ -73,15 +70,12 @@ status: 🟢 Currently training models & breaking Docker containers
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=oculus54&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
----
 
 ### 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/oculus54/oculus54/output/github-contribution-grid-snake-forgejo-dark.svg" width="100%"/>
 </div>
-
----
 
 ### 🌐 Connect With Me
 
