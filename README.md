@@ -33,14 +33,14 @@ status: 🟢 Currently training models & breaking Docker containers
 ---
 
 ### 🛠️ Tech Arsenal
-
+<div align="center">
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,bash" />
 
 **AI / ML / Data Science**
 
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,huggingface,TensorFlow" /> 
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,huggingface,tensorFlow" /> 
 
 **Frameworks & Tools**
 
