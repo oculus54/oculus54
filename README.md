@@ -7,7 +7,7 @@
 </div>
 <div align="center">
 
-### 🤖 About Me
+### About Me
 
 </div>
 ```yaml
@@ -18,18 +18,18 @@ focus:
   - Strong fundamentals: C, OOP, Data Structures & Algorithms
   - Infra: Linux Administration, Docker, CI/CD pipelines
 fun_fact: Also builds IoT gadgets with ESP32 & Raspberry Pi purely for fun 🔧
-status: 🟢 Currently training models & breaking Docker containers
 ```
 
-- 🔭 Currently deep in **AI agent pipelines**, RAG systems, and edge inference on Raspberry Pi
-- 🧠 Learning the internals of **Transformer architectures** from first principles
-- ⚙️ Sharpening **DSA** and systems fundamentals alongside applied ML
-- 🌱 Always tinkering with something on a breadboard or in a Docker container
-- 💬 Ask me about: AI agents, LLM tooling, embedded Linux, or CI/CD setups
-- ⚡ Fun fact: I'll pick a segfault to debug over a Sunday off
+- Currently deep in **AI agent pipelines**, RAG systems, and edge inference on Raspberry Pi
+- Learning the internals of **Transformer architectures** from first principles
+- Sharpening **DSA** and systems fundamentals alongside applied ML
+- Always tinkering with something on a breadboard or in a Docker container
+- Ask me about: AI agents, LLM tooling, embedded Linux, or CI/CD setups
+- Fun fact: I'll pick a segfault to debug over a Sunday off
 
-
-### 🛠️ Tech Arsenal
+<div align="center">
+### Tech Arsenal
+</div>
 <div align="center">
   
 **Languages**
@@ -53,21 +53,21 @@ status: 🟢 Currently training models & breaking Docker containers
 <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
 
 </div>
-
+<div align="center">
 ### 📊 GitHub Stats
-
+</div>
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=oculus54&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
-
+<div align="center">
 ### 🐍 Contribution Snake
-
+</div>
 <div align="center">
 <img src="https://raw.githubusercontent.com/oculus54/oculus54/output/github-contribution-grid-snake-forgejo-dark.svg" width="100%"/>
 </div>
-
+<div align="center">
 ### 🌐 Connect With Me
-
+</div>
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/54.immortals_)
