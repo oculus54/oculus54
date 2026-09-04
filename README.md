@@ -71,34 +71,14 @@ status: 🟢 Currently training models & breaking Docker containers
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=oculus54&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oculus54&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com/?user=oculus54&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oculus54&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
-
 ---
 
 ### 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/oculus54/oculus54/output/github-contribution-grid-snake-forgejo-dark.svg" width="100%"/>
-</div>
-
-> ℹ️ The snake animation needs a one-time GitHub Action in this repo to generate the SVG above — see setup note at the bottom.
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=oculus54&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8"/>
 </div>
 
 ---
