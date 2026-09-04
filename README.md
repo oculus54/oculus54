@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Hi%20There,%20I'm%20Debangan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSIT%20@%20UEM%20Kolkata%20|%20AI%20%26%20Systems%20Tinkerer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -25,8 +23,6 @@ fun_fact: Also builds IoT gadgets with ESP32 & Raspberry Pi purely for fun 🔧
 status: 🟢 Currently training models & breaking Docker containers
 ```
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="robot wave"/>
-
 - 🔭 Currently deep in **AI agent pipelines**, RAG systems, and edge inference on Raspberry Pi
 - 🧠 Learning the internals of **Transformer architectures** from first principles
 - ⚙️ Sharpening **DSA** and systems fundamentals alongside applied ML
@@ -37,8 +33,6 @@ status: 🟢 Currently training models & breaking Docker containers
 ---
 
 ### 🛠️ Tech Arsenal
-
-<div align="center">
 
 **Languages**
 
@@ -60,10 +54,7 @@ status: 🟢 Currently training models & breaking Docker containers
 
 <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
 
-
 </div>
-
----
 
 ### 📊 GitHub Stats
 
