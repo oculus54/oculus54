@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=Building+with+AI+Agents+%26+LLMs;Exploring+Deep+Learning+%2B+Transformers;C+%7C+OOP+%7C+DSA+enjoyer;Linux+%2B+Docker+%2B+CI%2FCD+tinkerer;IoT+builder+with+ESP32+%26+Raspberry+Pi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=Hey+I'm+Debangan+%F0%9F%91%8B;CS+Undergrad;Building+with+AI+Agents+%26+LLMs;Exploring+Deep+Learning+%2B+Transformers;C+%7C+OOP+%7C+DSA+enjoyer;Linux+%2B+Docker+%2B+CI%2FCD+tinkerer;IoT+builder+with+ESP32+%26+Raspberry+Pi" />
 </a>
 
 </div>
