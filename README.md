@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=Hey+I'm+Debangan+%F0%9F%91%8B;CS+Undergrad;Building+with+AI+Agents+%26+LLMs;Exploring+Deep+Learning+%2B+Transformers;C+%7C+OOP+%7C+DSA+enjoyer;Linux+%2B+Docker+%2B+CI%2FCD+tinkerer;IoT+builder+with+ESP32+%26+Raspberry+Pi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=Hey+I'm+Debangan+%F0%9F%91%8B;CS+Undergrad;Building+with+AI+Agents+%26+LLMs;Exploring+Deep+Learning+%2B+Transformers;C+%7C+OOP+%7C+DSA+enjoyer;Linux+%2B+Docker+%2B+CI%2FCD;IoT+builder+with+ESP32+%26+Raspberry+Pi" />
 </a>
 
 </div>
@@ -20,13 +20,6 @@ focus:
   - Infra: Linux Administration, Docker, CI/CD pipelines
 fun_fact: Also builds IoT gadgets with ESP32 & Raspberry Pi purely for fun 🔧
 ```
-
-- Currently deep in **AI agent pipelines**, RAG systems, and edge inference on Raspberry Pi
-- Learning the internals of **Transformer architectures** from first principles
-- Sharpening **DSA** and systems fundamentals alongside applied ML
-- Always tinkering with something on a breadboard or in a Docker container
-- Ask me about: AI agents, LLM tooling, embedded Linux, or CI/CD setups
-- Fun fact: I'll pick a segfault to debug over a Sunday off
 
 <div align="center">
   
