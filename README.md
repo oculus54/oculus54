@@ -33,11 +33,11 @@ fun_fact: Also builds IoT gadgets with ESP32 & Raspberry Pi purely for fun 🔧
 
 **AI / ML / Data Science**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,huggingface" />  
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />  
 
 **Frameworks & Tools**
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,opencv,npm" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,npm" />
 
 **DevOps**
 
