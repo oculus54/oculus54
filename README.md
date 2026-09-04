@@ -50,7 +50,7 @@ fun_fact: Also builds IoT gadgets with ESP32 & Raspberry Pi purely for fun 🔧
 </div>
 <div align="center">
   
-### 📊 GitHub Stats
+###  GitHub Stats
 </div>
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=oculus54&theme=tokyonight&hide_border=true" alt="streak stats"/>
