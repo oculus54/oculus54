@@ -63,7 +63,15 @@ fun_fact: Also builds IoT gadgets with ESP32 & Raspberry Pi purely for fun 🔧
 <img src="https://raw.githubusercontent.com/oculus54/oculus54/output/github-contribution-grid-snake-forgejo-dark.svg" width="100%"/>
 </div>
 <div align="center">
-  
+
+### Contribution Graph 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
+  <img alt="3D GitHub Contribution Graph" src="profile-3d-contrib/profile-green-animate.svg">
+</picture>
+
+
 ### Connect With Me
 </div>
 <div align="center">
