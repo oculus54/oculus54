@@ -12,15 +12,26 @@
 </div>
 
 ```yaml
-whoami: Debangan (oculus54)
-role: B.Tech Student — CSIT, University of Engineering & Management, Kolkata
-focus:
-  - Next-Gen Tech: AI Agents, LLMs, Applied Deep Learning, Transformer Architecture
-  - Strong fundamentals: C, OOP, Data Structures & Algorithms
-  - Infra: Linux Administration, Docker, CI/CD pipelines
-fun_fact: Also builds IoT gadgets with ESP32 & Raspberry Pi purely for fun 🔧
-```
+whoami: "Debangan (oculus54)"
+role: "B.Tech Student — CSIT, University of Engineering & Management, Kolkata"
 
+focus:
+  next_gen_tech:
+    - "AI Agents"
+    - "LLMs"
+    - "Applied Deep Learning"
+    - "Transformer Architecture"
+  fundamentals:
+    - "C"
+    - "OOP"
+    - "Data Structures & Algorithms"
+  infra:
+    - "Linux Administration"
+    - "Docker"
+    - "CI/CD pipelines"
+
+fun_fact: "Also builds IoT gadgets with ESP32 & Raspberry Pi purely for fun"
+```
 <div align="center">
   
 ### Tech Arsenal
