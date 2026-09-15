@@ -14,25 +14,14 @@
 </div>
 
 ```yaml
-whoami: "Debangan (oculus54)"
-role: "B.Tech Student — CSIT, University of Engineering & Management, Kolkata"
-
+whoami: Debangan Makhal aka oculus
+role: B.Tech Student — CSIT, University of Engineering & Management, Kolkata
 focus:
-  next_gen_tech:
-    - "AI Agents"
+    - "Convolutional Neural Network"
     - "LLMs"
-    - "Applied Deep Learning"
     - "Transformer Architecture"
-  fundamentals:
-    - "C"
-    - "OOP"
-    - "Data Structures & Algorithms"
-  infra:
-    - "Linux Administration"
-    - "Docker"
-    - "CI/CD pipelines"
-
-fun_fact: "Also builds IoT gadgets with ESP32 & Raspberry Pi purely for fun"
+    - "MLOps"
+fun_fact: Also builds IoT gadgets with ESP32 & Raspberry Pi purely for fun
 ```
 <div align="center">
   
