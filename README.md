@@ -78,9 +78,10 @@ fun_fact: Also builds IoT gadgets with ESP32 & Raspberry Pi purely for fun
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/54.immortals_)
+[![Roboflow](https://img.shields.io/badge/Roboflow-6706CE.svg?style=for-the-badge&logo=roboflow&logoColor=white)](https://universe.roboflow.com/oculus54-ws)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@debanganm23s)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debanganm23s@gmail.com)
-[![Roboflow](https://img.shields.io/badge/Roboflow-6706CE.svg?style=for-the-badge&logo=roboflow&logoColor=white)](https://universe.roboflow.com/oculus54-ws)
+
 
 </div>
 
