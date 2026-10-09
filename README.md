@@ -99,7 +99,7 @@ SETUP NOTES (delete this comment once done):
    github-contribution-grid-snake.svg on an "output" branch.
 2. github-readme-stats / streak-stats / activity-graph are hosted by
    third parties and can rate-limit; if a card breaks, redeploy your
-   own instance (repos are public) and swap the UR
+   own instance (repos are public) and sw
 3. Replace "oculus54" everywhere if your GitHub handle changes.
 -->
 
