@@ -9,7 +9,7 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> </p>
 
 ### About Me
 
@@ -103,5 +103,6 @@ SETUP NOTES (delete this comment once done):
    third parties and can rate-limit; if a card breaks, redeploy your
    own instance (repos are public) and sw
 3. Replace "oculus54" everywhere if your GitHub handle changes.
+daft punk robot : <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px">
 -->
 
