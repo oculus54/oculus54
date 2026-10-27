@@ -95,7 +95,7 @@ fun_fact: Also builds IoT gadgets with ESP32 & Raspberry Pi purely for fun
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer" width="100%"/>
 
 <!--
-SETUP NOTES (delete this comment once done):
+SETUP NOTES (deletence done):
 1. Snake animation: add .github/workflows/snake.yml from
    https://github.com/Platane/snk — this generates the
    github-contribution-grid-snake.svg on an "output" branch.
